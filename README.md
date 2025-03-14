@@ -48,7 +48,7 @@ The Random Forest classifier was used for predicting whether a GitHub repository
 ## How to Run the Project 
 ### 1. Clone the Repository  
 ```sh
-git clone https://github.com/your-username/Github-Repository-Analysis.git
+git clone https://github.com/bansi81/Github-Repository-Analysis.git
 cd Github-Repository-Analysis
 ```
 
