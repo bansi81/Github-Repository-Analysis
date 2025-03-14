@@ -20,7 +20,8 @@ EDA was performed to identify key factors influencing repository success, includ
 
 Example Visualizations: 
 ![image](https://github.com/user-attachments/assets/5b6aab80-2b60-4a48-86a1-a480f9e75465)
-![image](https://github.com/user-attachments/assets/e7dadda4-a6f3-4476-af3d-c5e15f61d193)
+![image](https://github.com/user-attachments/assets/1409bb7e-67c9-4dbb-9760-10a28da08af5)
+
 
 
 ---
